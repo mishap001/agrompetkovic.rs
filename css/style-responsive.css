@@ -53,7 +53,7 @@
 	.product-container-second{display: flex;gap: 40px;margin: 50px 0 50px 0;flex-direction: column;}
 	.tabBlock-tab.is-active{position: relative;color: #80b500;z-index: 1;}
 	.product-container .item-container{width: calc(50% - 25px / 2);box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);}
-
+	.product-container .item-container .description-holder{padding: 25px 13px 15px;text-align: center;}
 
 }
 
